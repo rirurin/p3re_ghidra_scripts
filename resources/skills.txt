@@ -1,0 +1,1025 @@
+Attack_0
+カットイン付きアギ_1
+未使用_2
+未使用_3
+未使用_4
+未使用_5
+未使用_6
+未使用_7
+未使用_8
+未使用_9
+Agi_10
+Agilao_11
+Agidyne_12
+Maragi_13
+Maragion_14
+Maragidyne_15
+Inferno_16
+未使用_17
+Maralagidyne_18
+未使用_19
+Bufu_20
+Bufula_21
+Bufudyne_22
+Mabufu_23
+Mabufula_24
+Mabufudyne_25
+Diamond Dust_26
+未使用_27
+未使用_28
+未使用_29
+Garu_30
+Garula_31
+Garudyne_32
+Magaru_33
+Magarula_34
+Magarudyne_35
+Panta Rhei_36
+未使用_37
+未使用_38
+未使用_39
+Zio_40
+Zionga_41
+Ziodyne_42
+Mazio_43
+Mazionga_44
+Maziodyne_45
+Thunder Reign_46
+未使用_47
+未使用_48
+未使用_49
+Hama_50
+Hamaon_51
+Mahama_52
+Mahamaon_53
+Samsara_54
+未使用_55
+Kouha_56
+Kouga_57
+Kougaon_58
+Makouha_59
+Makouga_60
+Makougaon_61
+Divine Judgement_62
+未使用_63
+Mudo_64
+Mudoon_65
+Mamudo_66
+Mamudoon_67
+Die For Me!_68
+未使用_69
+Eiha_70
+Eiga_71
+Eigaon_72
+Maeiha_73
+Maeiga_74
+Maeigaon_75
+Demonic Decree_76
+未使用_77
+Megido_78
+Megidola_79
+Megidolaon_80
+Black Viper_81
+Morning Star_82
+未使用_83
+未使用_84
+Poisma_85
+Poison Mist_86
+Marin Karin_87
+Sexy Dance_88
+Bewilder_89
+Eerie Sound_90
+Pulinpa_91
+Tentarafoo_92
+Evil Touch_93
+Evil Smile_94
+Provoke_95
+Infuriate_96
+未使用_97
+未使用_98
+未使用_99
+Ghastly Wail_100
+Foul Breath_101
+Stagnant Air_102
+Life Drain_103
+Spirit Drain_104
+Virus Breath_105
+未使用_106
+未使用_107
+未使用_108
+未使用_109
+Power Slash_110
+Fatal End_111
+Tempest Slash_112
+Vacuum Slash_113
+Blade of Fury_114
+Deathbound_115
+Brave Blade_116
+Vorpal Blade_117
+Heaven's Blade_118
+Getsu-ei_119
+Zan-ei_120
+Neuro Slash_121
+未使用_122
+未使用_123
+未使用_124
+Bash_125
+Assault Dive_126
+Gigantic Fist_127
+Swift Strike_128
+Herculean Strike_129
+Heat Wave_130
+God's Hand_131
+Akasha Arts_132
+Sonic Punch_133
+未使用_134
+未使用_135
+未使用_136
+未使用_137
+未使用_138
+Single Shot_139
+Holy Arrow_140
+Torrent Shot_141
+Vile Assault_142
+Arrow Rain_143
+Myriad Arrows_144
+Cruel Attack_145
+Primal Force_146
+Pralaya_147
+Poison Arrow_148
+未使用_149
+未使用_150
+未使用_151
+未使用_152
+未使用_153
+未使用_154
+Dia_155
+Diarama_156
+Diarahan_157
+未使用_158
+未使用_159
+Media_160
+Mediarama_161
+Mediarahan_162
+Salvation_163
+未使用_164
+Recarm_165
+Samarecarm_166
+Recarmdra_167
+未使用_168
+未使用_169
+Patra_170
+Me Patra_171
+Baisudi_172
+Mabaisudi_173
+未使用_174
+未使用_175
+Amrita Shower_176
+Amrita Drop_177
+未使用_178
+未使用_179
+Tarukaja_180
+Rakukaja_181
+Sukukaja_182
+未使用_183
+未使用_184
+Matarukaja_185
+Marakukaja_186
+Masukukaja_187
+Heat Riser_188
+未使用_189
+Tarunda_190
+Rakunda_191
+Sukunda_192
+未使用_193
+未使用_194
+Matarunda_195
+Marakunda_196
+Masukunda_197
+Debilitate_198
+未使用_199
+Dekaja_200
+Dekunda_201
+未使用_202
+未使用_203
+未使用_204
+Charge_205
+Concentrate_206
+Bloody Charge_207
+未使用_208
+未使用_209
+Rebellion_210
+Revolution_211
+未使用_212
+未使用_213
+未使用_214
+Tetrakarn_215
+Makarakarn_216
+未使用_217
+未使用_218
+未使用_219
+Fire Break_220
+Ice Break_221
+Wind Break_222
+Elec Break_223
+未使用_224
+未使用_225
+未使用_226
+未使用_227
+未使用_228
+未使用_229
+Sinful Shell_230
+Wild Thunder_231
+Vacuum Wave_232
+Blazing Hell_233
+Ice Age_234
+Cosmic Flare_235
+One-shot Kill_236
+Rebellion Blade_237
+Masquerade_238
+Cross Slash_239
+Magatsu Mandala_240
+Shining Arrows_241
+未使用_242
+未使用_243
+未使用_244
+Full Analysis_245
+Escape Route_246
+Jamming_247
+Tartarus Search_248
+Sylphid Aura_249
+Shock Noise_250
+未使用_251
+未使用_252
+未使用_253
+未使用_254
+未使用_255
+未使用_256
+未使用_257
+未使用_258
+未使用_259
+Cadenza_260
+Jack Brothers_261
+King and I_262
+Best Friends_263
+Scarlet Havoc_264
+Trickster_265
+Armageddon_266
+未使用_267
+未使用_268
+未使用_269
+Oracle_270
+Oracle_271
+Oracle_272
+Revelation_273
+Revelation_274
+Revelation_275
+Revelation_276
+Revelation_277
+未使用_278
+未使用_279
+Cyclone Arrow_280
+Hack n' Blast_281
+Lightning Spike_282
+Blizzard Edge_283
+Oracle_284
+Orgia Mode_285
+Divine Retribution_286
+Hound of Hades_287
+Bleeding Fury_288
+未使用_289
+未使用_290
+未使用_291
+Tranquility_292
+Blaze of Life_293
+Electric Onslaught_294
+Blade of Execution_295
+Revelation_296
+Maximum Firepower_297
+Divine Intervention_298
+Power Howling_299
+未使用_300
+未使用_301
+未使用_302
+未使用_303
+テウルギア検証用_304
+未使用_305
+未使用_306
+未使用_307
+未使用_308
+未使用_309
+All-Out Attack_310
+Slash Attack_311
+Strike Attack_312
+Pierce Attack_313
+Fire Attack_314
+Ice Attack_315
+Electric Attack_316
+Wind Attack_317
+Light Attack_318
+Dark Attack_319
+Almighty Attack_320
+Summon_321
+Ice Storm_322
+Invitation to Chaos_323
+Doomsday Doctrine_324
+Paradigm Shift_325
+Heartbreaker_326
+Seductive Breath_327
+Holy Arrow_328
+Unite_329
+Separate_330
+Restore_331
+Armor-Piercing Shell_332
+High-Explosive Shell_333
+Frag Grenade_334
+Lightning Grenade_335
+Flash Grenade_336
+Flame Grenade_337
+Shock Grenade_338
+EX Flash Grenade_339
+Weakness Scan_340
+Potent Stim Injection_341
+Paradise of Quietus_342
+Pierce Attack_343
+Slash Attack_344
+Megidolaon_345
+Poison Mist_346
+Charging Complete_347
+Accelerated Charging_348
+High-Volt Current_349
+Mega Spark_350
+Giga Spark_351
+Tera Spark_352
+Megidolaon_353
+Neuro Slash_354
+Megidola_355
+Initiate Charging_356
+Arcana Shift_357
+Arcana Shift_358
+Arcana Shift_359
+Arcana Shift_360
+Arcana Shift_361
+Arcana Shift_362
+Arcana Shift_363
+Arcana Shift_364
+Arcana Shift_365
+Arcana Shift_366
+Arcana Shift_367
+Arcana Shift_368
+Arcana Shift_369
+Sweep_370
+Sunder_371
+Night Queen_372
+Apocalypse_373
+Ice Storm_374
+Doomsday Doctrine_375
+Heartbreaker_376
+Tera Spark_377
+High-Volt Current_378
+Grim Transcendence_379
+Mobius Rondo_380
+Wheel of Fortune_381
+Wheel of Fortune_382
+Wheel of Fortune_383
+Wheel of Fortune_384
+Wheel of Fortune_385
+Summon_386
+未使用_387
+未使用_388
+未使用_389
+Death_390
+Great Seal_391
+未使用_392
+未使用_393
+未使用_394
+未使用_395
+未使用_396
+未使用_397
+未使用_398
+Mahama_399
+Life Drain_400
+Myriad Arrows_401
+Spirit Drain_402
+Evil Smile_403
+Infuriate_404
+Spring of Life_405
+Sexy Dance_406
+Life Drain_407
+Slash Attack_408
+Strike Attack_409
+Pierce Attack_410
+Ziodyne_411
+Soul Drain_412
+Mahamaon_413
+Mamudoon_414
+Life Drain_415
+Spirit Drain_416
+Hamaon_417
+Mudoon_418
+Diarama_419
+Assault Dive_420
+Megidolaon_421
+Tentarafoo_422
+Neuro Slash_423
+未使用_424
+未使用_425
+未使用_426
+未使用_427
+未使用_428
+未使用_429
+未使用_430
+未使用_431
+未使用_432
+未使用_433
+未使用_434
+未使用_435
+未使用_436
+未使用_437
+未使用_438
+未使用_439
+未使用_440
+未使用_441
+未使用_442
+未使用_443
+未使用_444
+未使用_445
+未使用_446
+未使用_447
+未使用_448
+未使用_449
+未使用_450
+未使用_451
+未使用_452
+未使用_453
+未使用_454
+未使用_455
+未使用_456
+未使用_457
+未使用_458
+未使用_459
+未使用_460
+未使用_461
+未使用_462
+未使用_463
+未使用_464
+未使用_465
+未使用_466
+未使用_467
+未使用_468
+未使用_469
+未使用_470
+未使用_471
+未使用_472
+未使用_473
+未使用_474
+未使用_475
+未使用_476
+未使用_477
+未使用_478
+未使用_479
+未使用_480
+未使用_481
+未使用_482
+未使用_483
+未使用_484
+未使用_485
+未使用_486
+未使用_487
+未使用_488
+未使用_489
+未使用_490
+未使用_491
+未使用_492
+未使用_493
+未使用_494
+未使用_495
+未使用_496
+未使用_497
+未使用_498
+未使用_499
+未使用_500
+Drop Money_501
+Drop Item_502
+Freeze (low)_503
+Freeze (med)_504
+Freeze (high)_505
+Shock (low)_506
+Shock (med)_507
+Shock (high)_508
+Confuse (low)_509
+Confuse (med)_510
+Confuse (high)_511
+Fear (low)_512
+Fear (med)_513
+Fear (high)_514
+Distress (low)_515
+Distress (med)_516
+Distress (high)_517
+Charm (low)_518
+Charm (med)_519
+Charm (high)_520
+Rage (low)_521
+Rage (med)_522
+Rage (high)_523
+Poison (low)_524
+Poison (med)_525
+Poison (high)_526
+All Ailments (low)_527
+All Ailments (med)_528
+All Ailments (high)_529
+未使用_530
+未使用_531
+未使用_532
+未使用_533
+未使用_534
+未使用_535
+未使用_536
+未使用_537
+未使用_538
+未使用_539
+未使用_540
+未使用_541
+未使用_542
+未使用_543
+未使用_544
+未使用_545
+未使用_546
+未使用_547
+未使用_548
+未使用_549
+未使用_550
+未使用_551
+未使用_552
+未使用_553
+未使用_554
+未使用_555
+未使用_556
+未使用_557
+未使用_558
+未使用_559
+未使用_560
+未使用_561
+未使用_562
+未使用_563
+未使用_564
+未使用_565
+未使用_566
+未使用_567
+未使用_568
+未使用_569
+未使用_570
+未使用_571
+未使用_572
+未使用_573
+未使用_574
+未使用_575
+未使用_576
+未使用_577
+未使用_578
+未使用_579
+未使用_580
+未使用_581
+未使用_582
+未使用_583
+未使用_584
+未使用_585
+未使用_586
+未使用_587
+未使用_588
+未使用_589
+未使用_590
+未使用_591
+未使用_592
+未使用_593
+未使用_594
+未使用_595
+未使用_596
+未使用_597
+未使用_598
+未使用_599
+Medicine_600
+Bead_601
+Bead Chain_602
+Precious Egg_603
+Potent Medicine_604
+Medical Powder_605
+Muscle Drink_606
+Odd Morsel_607
+Rancid Gravy_608
+Umugi Water_609
+Bread_610
+Cutlet Sandwich_611
+Snuff Soul_612
+Chewing Soul_613
+Soma_614
+SP Drink_615
+Dis-Poison_616
+Dis-Rage_617
+Dis-Charm_618
+Me Patra Gem_619
+Traesto Gem_620
+Trafuri Gem_621
+Agilao Gem_622
+Maragi Gem_623
+Bufula Gem_624
+Mabufu Gem_625
+Zionga Gem_626
+Mazio Gem_627
+Garula Gem_628
+Magaru Gem_629
+Megido Gem_630
+Megidolaon Gem_631
+Purifying Rice_632
+Curse Paper_633
+Flame Magatama_634
+Frigid Magatama_635
+Shock Magatama_636
+Gale Magatama_637
+Homunculus_638
+Plume of Gold_639
+Life Stone_640
+Mega Kudzu_641
+Value Medicine_642
+First Aid Kit M_643
+Soul Drop_644
+Kouga Gem_645
+Makouha Gem_646
+Eiga Gem_647
+Maeiha Gem_648
+Holy Magatama_649
+Malice Magatama_650
+Dis-Distress_651
+Dis-Confuse_652
+Dis-Fear_653
+Amrita Gem_654
+Defrost Powder_655
+Antistatic Paper_656
+Smelling Salts_657
+Weird Takoyaki_658
+HP Drink_659
+Single-target Dekunda_660
+単体HP150回復_661
+単体HP150回復_662
+単体HP200回復_663
+単体HP200回復_664
+全体SP10回復_665
+Soul Spinach_666
+Leafy Soul Spinach_667
+Golden Tomato_668
+Big Golden Tomato_669
+Tiny Golden Tomato_670
+Golden Tomato EX_671
+Platinum Tomato_672
+未使用_673
+未使用_674
+未使用_675
+未使用_676
+未使用_677
+未使用_678
+未使用_679
+未使用_680
+未使用_681
+未使用_682
+未使用_683
+未使用_684
+未使用_685
+未使用_686
+未使用_687
+未使用_688
+未使用_689
+未使用_690
+未使用_691
+未使用_692
+未使用_693
+未使用_694
+未使用_695
+未使用_696
+未使用_697
+未使用_698
+未使用_699
+Resist Slash_700
+Null Slash_701
+Repel Slash_702
+Drain Slash_703
+Resist Strike_704
+Null Strike_705
+Repel Strike_706
+Drain Strike_707
+Resist Pierce_708
+Null Pierce_709
+Repel Pierce_710
+Drain Pierce_711
+Resist Fire_712
+Null Fire_713
+Repel Fire_714
+Drain Fire_715
+Resist Ice_716
+Null Ice_717
+Repel Ice_718
+Drain Ice_719
+Resist Wind_720
+Null Wind_721
+Repel Wind_722
+Drain Wind_723
+Resist Elec_724
+Null Elec_725
+Repel Elec_726
+Drain Elec_727
+Resist Light_728
+Null Light_729
+Repel Light_730
+Drain Light_731
+Resist Dark_732
+Null Dark_733
+Repel Dark_734
+Drain Dark_735
+未使用_736
+未使用_737
+Resist Dizzy_738
+Null Dizzy_739
+Resist Poison_740
+Null Poison_741
+Resist Charm_742
+Null Charm_743
+Resist Distress_744
+Null Distress_745
+Resist Confuse_746
+Null Confuse_747
+Resist Fear_748
+Null Fear_749
+Resist Rage_750
+Null Rage_751
+Resist Freeze_752
+Null Freeze_753
+Resist Shock_754
+Null Shock_755
+Unshaken Will_756
+Resist Ailments_757
+未使用_758
+Dodge Slash_759
+Evade Slash_760
+Dodge Strike_761
+Evade Strike_762
+Dodge Pierce_763
+Evade Pierce_764
+Dodge Fire_765
+Evade Fire_766
+Dodge Ice_767
+Evade Ice_768
+Dodge Wind_769
+Evade Wind_770
+Dodge Elec_771
+Evade Elec_772
+Dodge Light_773
+Evade Light_774
+Dodge Dark_775
+Evade Dark_776
+未使用_777
+未使用_778
+Counter_779
+Counterstrike_780
+High Counter_781
+未使用_782
+未使用_783
+Regenerate 1_784
+Regenerate 2_785
+Regenerate 3_786
+未使用_787
+Invigorate 1_788
+Invigorate 2_789
+Invigorate 3_790
+未使用_791
+Slash Boost_792
+Slash Amp_793
+Strike Boost_794
+Strike Amp_795
+Pierce Boost_796
+Pierce Amp_797
+Fire Boost_798
+Fire Amp_799
+Ice Boost_800
+Ice Amp_801
+Wind Boost_802
+Wind Amp_803
+Elec Boost_804
+Elec Amp_805
+Light Boost_806
+Light Amp_807
+Dark Boost_808
+Dark Amp_809
+未使用_810
+Dizzy Boost_811
+Poison Boost_812
+Charm Boost_813
+Distress Boost_814
+Confuse Boost_815
+Fear Boost_816
+Rage Boost_817
+Freeze Boost_818
+Shock Boost_819
+Ailment Boost_820
+Hama Boost_821
+Mudo Boost_822
+未使用_823
+未使用_824
+Auto Tarukaja_825
+Auto Rakukaja_826
+Auto Sukukaja_827
+Auto Mataru_828
+Auto Maraku_829
+Auto Masuku_830
+Auto Rebellion_831
+未使用_832
+Sharp Student_833
+Apt Pupil_834
+Endure_835
+Enduring Soul_836
+未使用_837
+Life Aid_838
+Victory Cry_839
+未使用_840
+Divine Grace_841
+Angelic Grace_842
+Raging Tiger_843
+Vidyaraja's Blessing_844
+Growth 1_845
+Growth 2_846
+Growth 3_847
+Ali Dance_848
+Firm Stance_849
+Survive Light_850
+Endure Light_851
+Survive Dark_852
+Endure Dark_853
+Survival Trick_854
+未使用_855
+Arms Master_856
+Spell Master_857
+未使用_858
+未使用_859
+未使用_860
+未使用_861
+未使用_862
+Almighty Boost_863
+Almighty Amp_864
+Magic Ability_865
+Magic Mastery_866
+未使用_867
+未使用_868
+Fast Heal_869
+Insta-Heal_870
+Resist Phys_871
+Null Phys_872
+未使用_873
+未使用_874
+Slash Driver_875
+Strike Driver_876
+Pierce Driver_877
+Fire Driver_878
+Ice Driver_879
+Elec Driver_880
+Wind Driver_881
+Light Driver_882
+Dark Driver_883
+Crit Rate Boost_884
+Crit Rate Amp_885
+Anti-Fire Master_886
+Anti-Ice Master_887
+Anti-Electric Master_888
+Anti-Wind Master_889
+Soul Shift_890
+Soul Chain_891
+Soul Link_892
+Shift Boost_893
+Shift Amp_894
+Drain Ability_895
+Single-Target Boost_896
+Multi-Target Boost_897
+未使用_898
+未使用_899
+未使用_900
+Weakness Boost_901
+Weakness Amp_902
+Healing Master_903
+Healing Apex_904
+Critical Boost_905
+Critical Amp_906
+Buff Boost_907
+Buff Amp_908
+Ailment Burst_909
+Ailment Surge_910
+Weakness Buffer_911
+Weakness Mitigator_912
+Phys Boost_913
+Phys Amp_914
+Spirit Refresh_915
+Spirit Restore_916
+Auto Sukunda_917
+Auto Masukunda_918
+Auto Bolster_919
+Auto Heat Riser_920
+未使用_921
+未使用_922
+未使用_923
+未使用_924
+未使用_925
+未使用_926
+未使用_927
+未使用_928
+未使用_929
+未使用_930
+未使用_931
+未使用_932
+未使用_933
+未使用_934
+未使用_935
+未使用_936
+未使用_937
+未使用_938
+未使用_939
+未使用_940
+未使用_941
+未使用_942
+未使用_943
+未使用_944
+未使用_945
+未使用_946
+未使用_947
+未使用_948
+未使用_949
+未使用_950
+未使用_951
+未使用_952
+未使用_953
+未使用_954
+未使用_955
+未使用_956
+未使用_957
+未使用_958
+未使用_959
+未使用_960
+未使用_961
+未使用_962
+未使用_963
+未使用_964
+未使用_965
+未使用_966
+未使用_967
+未使用_968
+未使用_969
+未使用_970
+未使用_971
+未使用_972
+未使用_973
+未使用_974
+未使用_975
+未使用_976
+未使用_977
+未使用_978
+未使用_979
+未使用_980
+未使用_981
+未使用_982
+未使用_983
+未使用_984
+未使用_985
+未使用_986
+未使用_987
+未使用_988
+未使用_989
+未使用_990
+未使用_991
+未使用_992
+未使用_993
+未使用_994
+未使用_995
+未使用_996
+未使用_997
+未使用_998
+未使用_999
+未使用_1000
+未使用_1001
+未使用_1002
+未使用_1003
+未使用_1004
+未使用_1005
+未使用_1006
+未使用_1007
+未使用_1008
+未使用_1009
+未使用_1010
+未使用_1011
+未使用_1012
+未使用_1013
+未使用_1014
+未使用_1015
+未使用_1016
+未使用_1017
+未使用_1018
+未使用_1019
+未使用_1020
+未使用_1021
+未使用_1022
+未使用_1023
+未使用_1024
